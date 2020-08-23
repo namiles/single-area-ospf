@@ -4,14 +4,14 @@ You can find the full OSPF configuration for both the IPv4 and IPv6 labs below.
 ## IPv4
 
 ### R1
-router ospf 1
+```router ospf 1
 router-id 1.1.1.1
 network 10.1.1.0 0.0.0.255 area 0
 network 172.16.1.0 0.0.0.3 area 0
 
 interface lo0
 ip ospf 1 area 0
-
+```
 ### R2
 router ospf 1
 router-id 2.2.2.2
