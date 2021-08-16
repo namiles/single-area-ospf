@@ -1,5 +1,5 @@
 # Single-Area OSPF Configuration on Cisco Routers
-You can find the full OSPF configuration for both the IPv4 and IPv6 labs below. See more at https://www.nicksnetwork.com.
+You can find the full OSPF configuration for both the IPv4 and IPv6 labs below. See more at https://www.nicksnetworklab.com.
 
 ## IPv4
 
